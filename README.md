@@ -46,7 +46,21 @@ Ref: https://pkg.jenkins.io/debian-stable/
 # Part -1 : Manual  Process of Application Run 
 
  1. Clone the Repo or code form the Source code
- 2. 
+ 2.  DOckerize the Application
+ 3.  Running on container
+
+# Part -2
+ 1. I'm using the Jenkins for the integration & Deployment
+ 2. Pipeline script job is created
+
+
+pieline :
+![php-mysql](https://github.com/mohsuhel/Php-Mysql-App/assets/127845338/1c69a573-1791-49e6-a04a-2932fcd50f22)
+![output](https://github.com/mohsuhel/Php-Mysql-App/assets/127845338/327bd952-6628-4ea9-8a42-cd56b3590108)
+![db](https://github.com/mohsuhel/Php-Mysql-App/assets/127845338/b8e9b06d-282d-43d1-9b9d-f9836d32a5d2)
+
+
+
 
 
 
