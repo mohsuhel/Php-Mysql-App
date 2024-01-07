@@ -14,10 +14,10 @@ Prerequiste :
 
 1. Launch the Instance and install the required packages for the application
 # commands
-sudo su -
-sudo apt install apache2-y
-sudo apt update -y
-sudo apt install php libapache2-mod-php php-mysql
+1. sudo su -
+2. sudo apt install apache2-y
+3. sudo apt update -y
+4. sudo apt install php libapache2-mod-php php-mysql
 
 # To check the connectiviy to RDS and Ec2 by installing the msql-client and fetech the db details
 sudo apt install mysql-client
