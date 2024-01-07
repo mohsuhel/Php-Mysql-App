@@ -37,6 +37,19 @@ code Deploy - Ansibel/Chef
 code pipleine - jenkins pipeline
 ECR - Docker     .. etc
 
+# Jenkins Installation
+Ref: https://pkg.jenkins.io/debian-stable/
+
+
+
+
+# Part -1 : Manual  Process of Application Run 
+
+ 1. Clone the Repo or code form the Source code
+ 2. 
+
+
+
 
 
 
